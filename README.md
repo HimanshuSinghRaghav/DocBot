@@ -1,4 +1,4 @@
-Tech Stack: ReactJs , AI module using (faiss vector database , openrouter api chatgpt-3.5-turbo) , postgres database
+Tech Stack: ReactJs , AI module using (faiss vector database , openrouter api chatgpt-3.5-turbo , fastapi) in Python , postgres database
 
 Diagram :https://chatgpt.com/s/m_68b32d00d4c881918615a524cc509430
 
